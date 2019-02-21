@@ -24,7 +24,11 @@ h5{
     padding: 0;
     } 
 
-body{
+table {
+      background-color: white;
+    }
+
+body {
     background-color: lightskyblue;
 }
 
@@ -61,7 +65,9 @@ body{
     background: white;
   }
 
-.margin-top-80 {
-    margin-top: 10px;
+.box {
+    height: 130px;
+    padding: 30px;
+    color: black;
+    background: white;
   }
-  
