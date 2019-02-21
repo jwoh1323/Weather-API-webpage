@@ -57,7 +57,13 @@ body {
     color: black;
     background: white;
   }
+.box-right2 {
+  height: 450px;
+  padding: 30px;
+  color: black;
+  background: white;
 
+}
 .box-center {
     height: 800px;
     padding: 20px;
